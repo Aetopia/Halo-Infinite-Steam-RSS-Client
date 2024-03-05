@@ -4,7 +4,7 @@ A simple program to fetch Halo Infinite's [Steam News RSS feed](https://store.st
 ![image](https://github.com/Aetopia/Halo-Infinite-Steam-RSS-Client/assets/41850963/68e92096-c854-42cd-9727-77432cc9e866)
 
 ## Usage
-1. Download the latest release from [GitHub Release](https://github.com/Aetopia/Halo-Infinite-Steam-RSS-Client/releases/latest).
+1. Download the latest release from [GitHub Releases](https://github.com/Aetopia/Halo-Infinite-Steam-RSS-Client/releases/latest).
 
 2. Run `Halo-Infinite-Steam-RSS-Client.exe`.
 
