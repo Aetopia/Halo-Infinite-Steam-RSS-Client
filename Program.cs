@@ -34,7 +34,7 @@ class MainWindow : Window
             foreach (XmlNode xmlNode in xmlDocument.SelectNodes("rss/channel/item"))
                 tuples.Add(new(xmlNode["enclosure"].GetAttribute("url"), xmlNode["title"].InnerText, xmlNode["link"].InnerText));
         }
-        catch (WebException)
+        catch
         {
             MessageBox.Show("Couldn't fetch RSS Feed.",
                             "Error",
